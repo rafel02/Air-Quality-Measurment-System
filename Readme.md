@@ -1,0 +1,1 @@
+The project is about measureing the voalitale organic compound level in air. I used Linkitone board interface with CCS811 sensor for VOC leve meansurment. The interfaceing is over I2C. The data collected from sensor is sent to ThingWorx cloud over MQTT. ThingWorx cloud is used to display sensor data remotely.
